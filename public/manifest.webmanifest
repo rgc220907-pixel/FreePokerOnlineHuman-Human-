@@ -1,0 +1,18 @@
+{
+  "name": "Hold'em · Torneo",
+  "short_name": "Hold'em",
+  "description": "Texas Hold'em multijugador en tiempo real.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
